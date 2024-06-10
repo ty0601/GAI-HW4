@@ -1,5 +1,3 @@
-# GAI-HW4
-
 ## Theoretical Justification
 實作Example 1 整合了DDPM和DIP的方法，利用兩種方法的優勢來進行圖像生成任務。
 #### DDPM和DIP的優勢
